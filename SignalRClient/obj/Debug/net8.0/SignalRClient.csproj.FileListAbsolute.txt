@@ -23,6 +23,7 @@ D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.Generated
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.AssemblyInfoInputs.cache
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.AssemblyInfo.cs
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.sourcelink.json
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRC.831535DC.Up2Date
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\SignalRClient.dll
 D:\Demo\DemoSignalR_Basic\SignalRClient\obj\Debug\net8.0\refint\SignalRClient.dll

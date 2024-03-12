@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "KDzBUrfu7rUHTZW9+Y2PMJ8uF807GX3mxH3OwZ42Nudw1EuK9YQoDoeAaHumdnskPE8z9kWPXNOVhbiRSgQiaw==",
+  "dgSpecHash": "cXoJiBOFoYHyeJg/tRh//dTvq9CwphVBS6gmNt22WLe7vJOMbkHSc+oQpe81aR8rDD0uE+WdgXH/AJU1KxdXEg==",
   "success": true,
   "projectFilePath": "D:\\Demo\\DemoSignalR_Basic\\SignalRServer\\SignalRServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\messagepack\\2.5.108\\messagepack.2.5.108.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\messagepack.annotations\\2.5.108\\messagepack.annotations.2.5.108.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.2\\microsoft.aspnetcore.connections.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.2\\microsoft.aspnetcore.signalr.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.messagepack\\8.0.2\\microsoft.aspnetcore.signalr.protocols.messagepack.8.0.2.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.extensions.features\\8.0.2\\microsoft.extensions.features.8.0.2.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\microsoft.net.stringtools\\17.4.0\\microsoft.net.stringtools.17.4.0.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\MercuryMedia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
